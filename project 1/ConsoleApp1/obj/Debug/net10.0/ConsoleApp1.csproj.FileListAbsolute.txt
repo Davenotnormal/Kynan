@@ -1,0 +1,14 @@
+D:\PROJECT2\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+D:\PROJECT2\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+D:\PROJECT2\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+D:\PROJECT2\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+D:\PROJECT2\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+D:\PROJECT2\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT2\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\PROJECT2\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+D:\PROJECT2\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\PROJECT2\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+D:\PROJECT2\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+D:\PROJECT2\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+D:\PROJECT2\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+D:\PROJECT2\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
