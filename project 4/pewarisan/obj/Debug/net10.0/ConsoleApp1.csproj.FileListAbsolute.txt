@@ -1,0 +1,4 @@
+D:\PROJECT2\pgim\project 4\pewarisan\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT2\pgim\project 4\pewarisan\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\PROJECT2\pgim\project 4\pewarisan\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+D:\PROJECT2\pgim\project 4\pewarisan\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
